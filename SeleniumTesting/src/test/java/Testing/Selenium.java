@@ -23,8 +23,13 @@ public class Selenium {
 	public static void rain2() {
 		System.out.println("Addition");
 	}
+	public static void rain4() {
+		System.out.println("Addition");
+	}	
 	public static void main(String[] args) {
 		add();
 	}
+	
+	
 
 }
